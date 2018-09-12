@@ -1,0 +1,31 @@
+{
+  "name": "phaser.project.boilerplate",
+  "version": "0.0.1",
+  "description": "Phaser 3 project boilerplate using ES6 / Webpack 4 for dev and production",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "keywords": ["Phaser", "Webpack", "ES6"],
+  "author": "Janis Rubens",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.4",
+    "babel-preset-env": "1.6.1",
+    "bulma": "0.7.1",
+    "css-hot-loader": "1.4.2",
+    "css-loader": "0.28.11",
+    "html-loader": "0.5.5",
+    "html-webpack-plugin": "3.0.7",
+    "mini-css-extract-plugin": "0.2.0",
+    "node-sass": "4.9.3",
+    "phaser": "3.12.0",
+    "sass-loader": "7.1.0",
+    "style-loader": "0.23.0",
+    "webpack": "4.2.0",
+    "webpack-cli": "2.0.12",
+    "webpack-dev-server": "3.1.1"
+  }
+}
