@@ -27,7 +27,7 @@ To run this boilerplate you will need to do few things.
 
 https://nodejs.org/en/
 
-## 1. Clone this repo:
+## 2. Clone this repo:
 
 In your terminal navigate into your workspace directory and run the command:
 
@@ -50,7 +50,7 @@ This will start the development server and open a browser tab with the game.
 You can also manually enter the adress in browser: ```http://localhost:8080/```
 
 
-## Build code for production:
+## 5. Build code for production:
 
 In your terminal run:
 
