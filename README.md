@@ -33,6 +33,10 @@ In your terminal navigate into your workspace directory and run the command:
 
 ```git clone git@github.com:JanisRubens/phaser-3-webpack-4-boilerplate.git <your directory name>```
 
+ Set your own git origin ( optional )
+ 
+ ``` git remote set-url origin <your git url here> ```
+
 ## 3. Install node packages:
 
 In your terminal navigate to the cloned repositories directory and run ```npm install```.
