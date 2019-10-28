@@ -31,7 +31,7 @@ https://nodejs.org/en/
 
 In your terminal navigate into your workspace directory and run the command:
 
-```git clone git@github.com:JanisRubens/phaser-3-webpack-4-boilerplate.git```
+```git clone git@github.com:JanisRubens/phaser-3-webpack-4-boilerplate.git <your directory name>```
 
 ## 3. Install node packages:
 
